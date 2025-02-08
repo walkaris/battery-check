@@ -47,7 +47,7 @@ Example:
 
 computername:MainServer_04
 
-<b>timeout</b>: this parametr in seconds is setting how often checks will be executed
+<b>timeout</b>: this parameter in seconds is setting how often checks will be executed
 
 Example:
 
