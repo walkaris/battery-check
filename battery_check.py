@@ -1,6 +1,5 @@
 import psutil
 import smtplib
-import sys
 import time
 
 def check_battery_percent():
