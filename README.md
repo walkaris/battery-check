@@ -1,4 +1,4 @@
-This is a simple battery or UPS check code written in Python3 with logging and email notifications.
+This is a simple battery or UPS check script written in Python3 with logging and email notifications.
 <b>Only standard drivers are supported, so if you're using Cyberpower Panel or anything else with its own driver, it won't work.</b>
 Before using you must install <b>psutil</b> Python package.
 
